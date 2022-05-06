@@ -394,7 +394,7 @@
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = "SafariDefaultSearch Extension/SafariDefaultSearch_Extension.entitlements";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = RB73R3H3RF;
+				DEVELOPMENT_TEAM = BYGY3WZ647;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = "SafariDefaultSearch Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -414,7 +414,7 @@
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = "SafariDefaultSearch Extension/SafariDefaultSearch_Extension.entitlements";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = RB73R3H3RF;
+				DEVELOPMENT_TEAM = BYGY3WZ647;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = "SafariDefaultSearch Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -437,9 +437,9 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = SafariDefaultSearch/SafariDefaultSearch.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = BYGY3WZ647;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = SafariDefaultSearch/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -462,9 +462,9 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = SafariDefaultSearch/SafariDefaultSearch.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = BYGY3WZ647;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = SafariDefaultSearch/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (

@@ -12,7 +12,7 @@ class SafariExtensionHandler: SFSafariExtensionHandler {
         if let url = url {
             if url.absoluteString.starts(with: "https://www.ecosia.org/") {
                 page.getContainingTab { tab in
-                    tab.navigate(to: URL(string: url.absoluteString.replacingOccurrences(of: "www.ecosia.org", with: "www.startpage.com")) ?? url)
+                    tab.navigate(to: URL(string: url.absoluteString.replacingOccurrences(of: "www.ecosia.org", with: "search.brave.com")) ?? url)
                 }
             }
         }
